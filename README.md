@@ -1,10 +1,16 @@
-## "The second record was called Morningrise"~ Mikael Åkerfeldt 
+# "Second record was called Morningrise"~ Mikael Åkerfeldt 
 
 Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, that is). 
 
+## A few facts about me
+
+Most of my personal interests revolve around computers and it's internals, the web isn't that interesting for me. Sysadmin stuff rocks!
+
+I also like cryptocurrencies a lot :smile: however I don't like <img width="24px" src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png"> Bitcoin  I like <img width="24px" src="https://cdn.iconscout.com/icon/free/png-256/monero-441944.png"> Monero instead. Privacy on money is law :heart:
+
+Music? I'm in love with progressive rock / metal :metal: you'll probablly encounter a few Opeth references while exploring my repositories.
   
 ![VentGrey Github Stats](https://github-readme-stats.vercel.app/api?username=ventgrey&show_icons=true&title_color=fff&icon_color=5C6BC0&text_color=8590CC&bg_color=151515)
-
 
 ## These are my favorite languages :heart: :rocket:
 
@@ -16,19 +22,33 @@ Hello there, chaps. My name is Omar :3 people usually call me "Vent" (online, th
 
 
 
+## Unpopular Opinions :persevere:
+
+* Technology isn't politics, focus on science and innovation those are more important :heart:
+* Codes Of Conduct kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
+* One rude **but** good contributor is worth more than a hunded kind ones.
+* JS is not the future, it is only more popular.
+* The only obsolete and useless programming languages are the ones you cannot master with your current skill.
+---
+
+
+
+## Some work / contributing experience
 
 Currently the only worker and _BDFL_ [@UpVent](https://github.com/UpVent) :smiley_cat:
 
-
 :computer: Programmer and DevOps at [Future Lab](https://github.com/futurelabmx) and [CyberIndustree](https://github.com/ascorpmx)
 
-:heart: In love with programming. (Really)
+Some other places I've worked for:
 
-Remember that technology isn't politics, focus on science <3
+* Ambotics (2019-2019)
+* AsCard (2018 - 2020)
+* CyberIndustree (2020 - *)
+* BrannAR (2017 - 2019)
+
 
 If you want to ask me why I curse in my code, any question or just wanna have a nice chit-chat you can reach me out in Telegram at: @PhantomCS
 
-Most of my personal interests revolve around computers, cryptocurrencies, videogames and music. 
 
 
 > "I would change everything I know, in exchange for **half** of what I don't"
