@@ -26,7 +26,7 @@ Music? I'm in love with progressive rock / metal :metal: you'll probablly encoun
 
 * Technology isn't politics, focus on science and innovation those are more important :heart:
 * Codes Of Conduct kill projects sometimes by banning good contributors for reasons arbitrary to their coding skills.
-* One rude **but** good contributor is worth more than a hunded kind ones.
+* One rude **but** good contributor is worth more than a hunded kind but newb ones.
 * JS is not the future, it is only more popular.
 * The only obsolete and useless programming languages are the ones you cannot master with your current skill.
 ---
